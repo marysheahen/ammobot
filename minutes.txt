@@ -1,0 +1,15 @@
+May 31st Eramis Meeting
+
+Meeting Minutes:
+
+TODO
+1. Develop Stories
+2. Run some Samples
+3. Eric is going to be working with xcode.  Mary is going to work with eclipse/android SDK.
+
+Schedule for next week:
+Sunday after eric's meeting.
+MTTh 7-9
+
+
+
